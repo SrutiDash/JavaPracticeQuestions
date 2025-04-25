@@ -1,0 +1,2 @@
+# JavaPracticeQuestions
+Practice Codes 

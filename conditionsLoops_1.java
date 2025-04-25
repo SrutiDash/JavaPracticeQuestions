@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class conditionsAndLoops_1 {
+public class conditionsLoops_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the value of radius : ");
